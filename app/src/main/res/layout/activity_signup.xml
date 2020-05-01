@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:theme="@style/EditTheme"
+    tools:context=".SignUpActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:text="@string/sign_up"
+        android:textColor="@color/colorOrange"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="아이디"
+            android:textColorHighlight="@color/colorOrange"
+            android:textColorLink="@color/colorOrange"
+            android:textSize="18sp" />
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:hint="로그인 시 사용할 아이디"
+            android:inputType="textEmailAddress"
+            android:labelFor="@android:id/input"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="비밀번호"
+            android:textColorHighlight="@color/colorOrange"
+            android:textColorLink="@color/colorOrange"
+            android:textSize="18sp"/>
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:hint="영문/숫자/기호 포함 8글자 이상"
+            android:inputType="textPassword"
+            android:labelFor="@android:id/input" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="이름"
+            android:textColorHighlight="@color/colorOrange"
+            android:textColorLink="@color/colorOrange"
+            android:textSize="18sp"/>
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:autofillHints=""
+            android:hint="한글 이름"
+            android:inputType="text"
+            android:labelFor="@android:id/input" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="닉네임"
+            android:textColorHighlight="@color/colorOrange"
+            android:textColorLink="@color/colorOrange"
+            android:textSize="18sp"/>
+
+        <EditText
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:autofillHints=""
+            android:hint="사용할 닉네임"
+            android:inputType="text"
+            android:labelFor="@android:id/input" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="단과대"
+            android:textColorHighlight="@color/colorOrange"
+            android:textColorLink="@color/colorOrange"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/univ_spinner"
+            android:layout_width="250dp"
+            android:dropDownWidth="250dp"
+            android:layout_height="50dp"
+            android:spinnerMode="dropdown" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="학과"
+            android:textColorHighlight="@color/colorOrange"
+            android:textColorLink="@color/colorOrange"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/major_spinner"
+            android:layout_width="250dp"
+            android:dropDownWidth="250dp"
+            android:layout_height="50dp"
+            android:spinnerMode="dropdown" />
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@color/colorOrange"
+        android:text="회원가입"
+        android:textColor="@color/colorWhite"/>
+
+</LinearLayout>
