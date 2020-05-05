@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s4.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s4.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gold.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\gold.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button2.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable\\button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s14.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s14.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s11.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s11.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s7.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s7.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_grouprank.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\layout\\activity_grouprank.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mainpage.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\layout\\activity_mainpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s12.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s12.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s15.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s15.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s3.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s3.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo1.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bronze.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\bronze.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s2.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s2.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s6.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s6.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s9.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s9.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sliver.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\sliver.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_person.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s16.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s16.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button3.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable\\button3.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_line.PNG.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\line.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s5.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s5.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_solorank.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\layout\\activity_solorank.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s1.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s1.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s13.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s13.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s8.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s8.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_s10.png.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\drawable-v24\\s10.png"
+    },
+    {
+        "merged": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_rank.xml.flat",
+        "source": "C:\\Users\\LG\\AndroidStudioProjects\\2020-1-Reply2016\\app\\src\\main\\res\\menu\\menu_rank.xml"
+    }
+]
